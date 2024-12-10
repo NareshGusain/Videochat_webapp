@@ -80,15 +80,15 @@ videocall_app/
 ├── requirements.txt             # Python dependencies
 └── manage.py                    # Django management script
 ```
-## 📸 **Steps to Add Screenshots to Your README**
+## Project screenshots**
 
-### landing
+### Landing Page
 ![Landing Page](/screenshots/landing.png)
 
-### Dashboard
+### Dashboard Page
 ![Dashboard Page](/screenshots/dashboard.png)
 
-### Sign Up & Login Page
+### SignUp & Login Page
 ![Login Page](/screenshots/login.png)
 ![Sign Up Page](/screenshots/signup.png)
 
